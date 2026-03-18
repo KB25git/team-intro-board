@@ -1,6 +1,5 @@
 ## 작업 이슈
-- #4
-
+- ex) closed#4
 ## 변경 내용
 - member-a 소개 문서 작성
 - README 링크 추가
